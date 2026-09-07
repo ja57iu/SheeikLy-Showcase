@@ -71,13 +71,23 @@ The final Trust Score is calculated dynamically using predefined metrics:
 
 ---
 
-## System UI & Test Cases
+## System Interface & Test Scenarios
 
-| Scenario | Result / Report Output |
-| :--- | :--- |
-| **Fully Compliant Store (Green)** | High Trust Score (95%-100%) with verified CR and SSL. |
-| **Missing Documentation (Orange)** | Flagged warnings for missing/unverified official licenses. |
-| **Restricted / Protected Site (Red/Notice)** | Graceful fallback prompting manual inspection guidelines. |
+### 1. User Interface Overview
+The platform features a clean, simple Arabic interface designed for intuitive URL input and guidance:
+
+| Main Interface | Manual Verification Steps |
+| :---: | :---: |
+| <img width="959" height="504" alt="Main Interface" src="رابط_صورة_الواجهة_الرئيسية_من_الـIssue" /> | <img width="959" height="504" alt="Manual Verification" src="رابط_صورة_خطوات_التحقق_من_الـIssue" /> |
+
+---
+
+### 2. Live Verification Results & Outcomes
+
+| Scenario 1: Fully Compliant Store (Green) | Scenario 2: Missing Documentation (Orange) |
+| :---: | :---: |
+| <img width="959" height="504" alt="Safe Result" src="رابط_صورة_النتيجة_الأولى_من_الـIssue" /> | <img width="959" height="504" alt="Suspicious Result" src="رابط_صورة_النتيجة_الثانية_من_الـIssue" /> |
+| **Status:** Safe (100% Score) <br> All CR & SSL metrics verified. | **Status:** Suspicious (95% Score) <br> SSL valid but missing/unreadable CR. |
 
 ---
 
