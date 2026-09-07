@@ -86,7 +86,7 @@ The platform features a clean, simple Arabic interface designed for intuitive UR
 
 | Scenario 1: Fully Compliant Store (Green) | Scenario 2: Missing Documentation (Orange) |
 | :---: | :---: |
-| <img width="959" height="504" alt="Safe Result" src="رابط_صورة_النتيجة_الأولى_من_الـIssue" /> | <img width="959" height="504" alt="Suspicious Result" src="رابط_صورة_النتيجة_الثانية_من_الـIssue" /> |
+| <img width="959" height="504" alt="Image" src="https://github.com/user-attachments/assets/f6d4ae72-6984-462d-8203-30e42af84fff" /> | 
 | **Status:** Safe (100% Score) <br> All CR & SSL metrics verified. | **Status:** Suspicious (95% Score) <br> SSL valid but missing/unreadable CR. |
 
 ---
