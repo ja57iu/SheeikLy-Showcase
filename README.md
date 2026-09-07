@@ -78,7 +78,7 @@ The platform features a clean, simple Arabic interface designed for intuitive UR
 
 | Main Interface | Manual Verification Steps |
 | :---: | :---: |
-| <img width="959" height="504" alt="Main Interface" src="رابط_صورة_الواجهة_الرئيسية_من_الـIssue" /> | <img width="959" height="504" alt="Manual Verification" src="رابط_صورة_خطوات_التحقق_من_الـIssue" /> |
+| <img width="959" height="503" alt="Image" src="https://github.com/user-attachments/assets/d0b6e63c-ee96-4d3b-862d-09e5a2a2f08a" /> |
 
 ---
 
